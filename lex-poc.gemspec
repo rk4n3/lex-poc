@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = 'https://github.com/rk4n3/lex-poc'
   spec.metadata['documentation_uri'] = 'https://github.com/rk4n3/lex-poc/wiki'
-  spec.metadata['changelog_uri'] = ''
+  spec.metadata['changelog_uri'] = 'https://github.com/rk4n3/lex-poc/blob/main/CHANGELOG.md'
   spec.metadata['bug_tracker_uri'] = 'https://github.com/rk4n3/lex-poc/issues'
   spec.require_paths = ['lib']
 
