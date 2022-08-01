@@ -1,0 +1,8 @@
+# Ensure this file isn't ignored
+!.gitignore
+# Ignore files and directories with these extensions
+*.swp
+*.pyc
+*.o
+# Ignore these specific files and directories
+.DS_Store
