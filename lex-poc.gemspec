@@ -2,11 +2,11 @@ require_relative 'lib/legion/extensions/poc/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'lex-poc'
-  spec.version       = Legion::Extensions::PoC::VERSION
+  spec.version       = Legion::Extensions::Poc::VERSION
   spec.authors       = ['rk4n3']
   spec.email         = ['dev@rk4n3.org']
 
-  spec.summary       = 'LEX::PoC'
+  spec.summary       = 'LEX::Poc'
   spec.description   = 'Proof-of-Concept'
   spec.homepage      = 'https://github.com/rk4n3/lex-poc'
   spec.license       = 'MIT'

@@ -1,5 +1,5 @@
-RSpec.describe Legion::Extensions::PoC do
+RSpec.describe Legion::Extensions::Poc do
   it 'has a version number' do
-    expect(Legion::Extensions::PoC::VERSION).not_to be nil
+    expect(Legion::Extensions::Poc::VERSION).not_to be nil
   end
 end

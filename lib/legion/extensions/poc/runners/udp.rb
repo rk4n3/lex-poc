@@ -1,6 +1,6 @@
 module Legion
   module Extensions
-    module PoC
+    module Poc
       module Runners
         module Udp
           def ping(host:, **)
