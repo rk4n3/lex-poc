@@ -4,7 +4,7 @@ module Legion
   module Extensions
     module Poc
       class Error < StandardError; end
-      # Your code goes here...
+        def data_required return true end
     end
   end
 end
